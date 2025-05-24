@@ -1,0 +1,2 @@
+VehicleId,DepotId,InitialLoad,RouteSequence,ClientsServed,DemandsSatisfied,TotalDistance,TotalTime,FuelCost
+VEH001,CDA,101,CDA-C003-C005-C006-C004-C001-C002-C009-C007-C008-CDA,9,15-5-11-6-12-15-15-12-10,50.5,75.7,46684
